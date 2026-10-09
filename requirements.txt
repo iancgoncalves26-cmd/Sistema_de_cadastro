@@ -1,0 +1,5 @@
+sqlalchemy
+os
+dotenv
+sqlalchemy.orm
+pandas

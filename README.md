@@ -20,15 +20,20 @@ Sistema CRUD desenvolvido em Python utilizando SQLAlchemy e MySQL.
 ## Estrutura
 
 projeto/;
+
 ├──painel/;
+
     ├──Buscar.py;
     ├──cadastrar.py;
     ├──Listar.py;
     ├──painel.py;
     ├──Remover.py;
 ├── __main__.py;
+
 ├── connect_sql.py;
+
 ├── dd_filter.py;
+
 └── README.md;
 
 ## Como executar
